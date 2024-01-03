@@ -1,0 +1,3 @@
+* Puch Magnum/Maxi License Plate Bracket
+Included in this repository is a license plate bracket that will work
+on a Puch Magnum, and a Maxi (with a small amount of deflection).
